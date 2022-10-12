@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/Element.h
+
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/Entrant.h
+string
+-
+iostream
+-
+
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/MultyList.h
+iostream
+-
+Entrant.h
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/Entrant.h
+SimplyList.h
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/SimplyList.h
+
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/SimplyList.h
+Element.h
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/Element.h
+
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/main.cpp
+iostream
+-
+string
+-
+Entrant.h
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/Entrant.h
+MultyList.h
+C:/Users/vscho/CLionProjects/Algorithms_Lab2/MultyList.h
+
