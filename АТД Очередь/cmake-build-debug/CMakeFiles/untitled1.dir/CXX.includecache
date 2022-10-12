@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vscho/CLionProjects/Algoritms_Lab1/ELType.h
+string
+-
+
+C:/Users/vscho/CLionProjects/Algoritms_Lab1/SerialQueue.h
+ELType.h
+C:/Users/vscho/CLionProjects/Algoritms_Lab1/ELType.h
+iostream
+-
+
+C:/Users/vscho/CLionProjects/Algoritms_Lab1/main.cpp
+iostream
+-
+vector
+-
+SerialQueue.h
+C:/Users/vscho/CLionProjects/Algoritms_Lab1/SerialQueue.h
+ELType.h
+C:/Users/vscho/CLionProjects/Algoritms_Lab1/ELType.h
+
