@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vscho/CLionProjects/Algorithms_Lab3/BinaryTreeNode.h
+
+C:/Users/vscho/CLionProjects/Algorithms_Lab3/Functions.cpp
+iostream
+-
+vector
+-
+stack
+-
+BinaryTreeNode.h
+C:/Users/vscho/CLionProjects/Algorithms_Lab3/BinaryTreeNode.h
+Functions.h
+C:/Users/vscho/CLionProjects/Algorithms_Lab3/Functions.h
+Functions.h
+C:/Users/vscho/CLionProjects/Algorithms_Lab3/Functions.h
+
+C:/Users/vscho/CLionProjects/Algorithms_Lab3/Functions.h
+
